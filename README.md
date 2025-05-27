@@ -1,7 +1,10 @@
 # Ex--5-Rail-Fence-Program
 
 # IMPLEMENTATION OF RAIL FENCE – ROW & COLUMN TRANSFORMATION TECHNIQUE
-
+```
+NAME:FRANKLIN.F
+REG.NO:212224240041
+```
 # AIM:
 
 # To write a C program to implement the rail fence transposition technique.
